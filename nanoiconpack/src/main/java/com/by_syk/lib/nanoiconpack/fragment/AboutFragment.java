@@ -16,13 +16,18 @@
 
 package com.by_syk.lib.nanoiconpack.fragment;
 
+import android.content.ComponentName;
 import android.content.Intent;
+import android.content.pm.ComponentInfo;
+import android.content.pm.ResolveInfo;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.preference.Preference;
 import android.support.v7.preference.PreferenceCategory;
 import android.support.v7.preference.PreferenceFragmentCompat;
 import android.text.TextUtils;
 
+import com.by_syk.lib.aboutmsgrender.AboutMsgRender;
 import com.by_syk.lib.nanoiconpack.R;
 import com.by_syk.lib.nanoiconpack.ReqStatsActivity;
 import com.by_syk.lib.nanoiconpack.bean.DonateBean;
@@ -31,7 +36,6 @@ import com.by_syk.lib.nanoiconpack.dialog.QrcodeDialog;
 import com.by_syk.lib.nanoiconpack.dialog.SponsorsDialog;
 import com.by_syk.lib.nanoiconpack.util.ExtraUtil;
 import com.by_syk.lib.nanoiconpack.util.PkgUtil;
-import com.by_syk.lib.aboutmsgrender.AboutMsgRender;
 import com.by_syk.lib.nanoiconpack.util.RetrofitHelper;
 import com.by_syk.lib.nanoiconpack.util.impl.NanoServerService;
 
@@ -126,6 +130,33 @@ public class AboutFragment extends PreferenceFragmentCompat implements Preferenc
         prefAppDashboard.setOnPreferenceClickListener(this);
         prefDevStats.setOnPreferenceClickListener(this);
         prefDevQuery.setOnPreferenceClickListener(this);
+
+        findPreference("iWannaDrawAIcon").setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
+            @Override
+            public boolean onPreferenceClick(Preference preference) {
+                String url = "http://www.coolapk.com/t/酷安手绘图标大赛";
+                Intent intent = new Intent(Intent.ACTION_VIEW);
+                intent.setData(Uri.parse(url));
+
+                List<ResolveInfo> resolvedActivityList = getActivity().getPackageManager().queryIntentActivities(intent, 0);
+
+                ComponentName coolMarketCom = null;
+                for (ResolveInfo info : resolvedActivityList) {
+                    if (info.activityInfo.packageName.equals("com.coolapk.market")) {
+                        coolMarketCom = new ComponentName(info.activityInfo.packageName, info.activityInfo.name);
+                        break;
+                    }
+                }
+                if (coolMarketCom != null) {
+                    intent.setComponent(coolMarketCom);
+                }
+
+                if (resolvedActivityList.size() > 0) {
+                    getActivity().startActivity(intent);
+                }
+                return true;
+            }
+        });
 
         prefCatIcons.setTitle(getString(R.string.preference_category_icons,
                 getResources().getStringArray(R.array.icons).length));
@@ -227,7 +258,8 @@ public class AboutFragment extends PreferenceFragmentCompat implements Preferenc
         if (!matcher.find()) {
             return;
         }
-        String key = matcher.group(1);NanoServerService service = RetrofitHelper.getInstance().getService(NanoServerService.class);
+        String key = matcher.group(1);
+        NanoServerService service = RetrofitHelper.getInstance().getService(NanoServerService.class);
         Call<ResResBean<List<DonateBean>>> call = service.getDonates(getContext().getPackageName(), key);
         call.enqueue(new Callback<ResResBean<List<DonateBean>>>() {
             @Override
@@ -247,7 +279,8 @@ public class AboutFragment extends PreferenceFragmentCompat implements Preferenc
             }
 
             @Override
-            public void onFailure(Call<ResResBean<List<DonateBean>>> call, Throwable t) {}
+            public void onFailure(Call<ResResBean<List<DonateBean>>> call, Throwable t) {
+            }
         });
 
 

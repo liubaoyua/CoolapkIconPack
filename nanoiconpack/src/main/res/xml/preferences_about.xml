@@ -74,6 +74,10 @@
             android:title="@string/preference_app_title_todo_1" />
 
         <Preference
+            android:key="iWannaDrawAIcon"
+            android:title="我要创作" />
+
+        <Preference
             android:key="appDashboard"
             android:title="@string/preference_app_title_dashboard" />
 

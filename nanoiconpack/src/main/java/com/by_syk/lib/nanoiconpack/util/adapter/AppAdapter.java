@@ -17,6 +17,7 @@
 package com.by_syk.lib.nanoiconpack.util.adapter;
 
 import android.content.Context;
+import android.graphics.drawable.Drawable;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v7.widget.RecyclerView;
@@ -78,7 +79,11 @@ public class AppAdapter extends RecyclerView.Adapter<AppAdapter.IconViewHolder>
         AppBean bean = dataList.get(position);
 
         holder.viewTag.setBackgroundResource(bean.isMark() ? R.drawable.tag_req : 0);
-        holder.ivIcon.setImageDrawable(bean.getIcon());
+        Drawable drawable = bean.getIcon();
+        if (drawable == null) {
+            drawable = holder.ivIcon.getContext().getDrawable(R.drawable.ic_image_placeholder_64dp);
+        }
+        holder.ivIcon.setImageDrawable(drawable);
 //        if (bean.getIcon() != null) {
 //            holder.ivIcon.setImageDrawable(bean.getIcon());
 //        } else {

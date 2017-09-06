@@ -104,6 +104,8 @@ public class IconAdapter extends RecyclerView.Adapter
             IconLabelViewHolder viewHolder = (IconLabelViewHolder) holder;
 //            viewHolder.ivIcon.setImageResource(dataList.get(position).getId());
             glideReqManager.load(dataList.get(position).getId())
+                    .placeholder(R.drawable.ic_image_placeholder_64dp)
+                    .dontAnimate()
                     .fitCenter()
                     .into(viewHolder.ivIcon);
             viewHolder.tvLabel.setText(dataList.get(position).getLabel());
@@ -111,6 +113,8 @@ public class IconAdapter extends RecyclerView.Adapter
             IconViewHolder viewHolder = (IconViewHolder) holder;
 //            viewHolder.ivIcon.setImageResource(dataList.get(position).getId());
             glideReqManager.load(dataList.get(position).getId())
+                    .placeholder(R.drawable.ic_image_placeholder_64dp)
+                    .dontAnimate()
                     .fitCenter()
                     .into(viewHolder.ivIcon);
         }

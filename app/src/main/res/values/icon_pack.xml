@@ -20,90 +20,17 @@
     <!-- File name (no suffix) list of all icons in /res/drawable-nodpi/ -->
     <!-- Names like "Calendar", "500px", "camera_360" are not allowed or recommended. -->
     <string-array name="icons" translatable="false">
-        <!-- A -->
-        <!-- B -->
-        <!-- C -->
         <item>calendar</item>
-        <!-- D -->
-        <!-- E -->
-        <!-- F -->
-        <!-- G -->
-        <!-- H -->
-        <!-- I -->
-        <!-- J -->
-        <!-- K -->
-        <!-- L -->
-        <!-- M -->
-        <!-- N -->
-        <item>nano_icon_pack</item>
-        <item>nano_icon_pack_1</item>
-        <item>nano_icon_pack_2</item>
-        <item>nano_icon_pack_3</item>
-        <item>nano_icon_pack_4</item>
-        <item>nano_icon_pack_5</item>
-        <item>nano_icon_pack_6</item>
-        <!-- O -->
-        <!-- P -->
-        <!-- Q -->
-        <!-- R -->
-        <!-- S -->
-        <!-- T -->
-        <!-- U -->
-        <!-- V -->
-        <!-- W -->
-        <!-- X -->
-        <!-- Y -->
-        <!-- Z -->
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
     <string-array name="icon_labels">
-        <!-- A -->
-        <!-- B -->
-        <!-- C -->
-        <item>Calendar</item>
-        <!-- D -->
-        <!-- E -->
-        <!-- F -->
-        <!-- G -->
-        <!-- H -->
-        <!-- I -->
-        <!-- J -->
-        <!-- K -->
-        <!-- L -->
-        <!-- M -->
-        <!-- N -->
-        <item>NanoIconPack (by @Childish)</item>
-        <item>NanoIconPack (by @Markuss)</item>
-        <item>NanoIconPack (by @pandecheng)</item>
-        <item>NanoIconPack (by @atony)</item>
-        <item>NanoIconPack (by @可以and不行)</item>
-        <item>NanoIconPack (by @ArchieLiu)</item>
-        <item>NanoIconPack (by @lnm011223)</item>
-        <!-- O -->
-        <!-- P -->
-        <!-- Q -->
-        <!-- R -->
-        <!-- S -->
-        <!-- T -->
-        <!-- U -->
-        <!-- V -->
-        <!-- W -->
-        <!-- X -->
-        <!-- Y -->
-        <!-- Z -->
     </string-array>
 
     <!-- Latest icons (Make sure it's from the "icons" array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>nano_icon_pack_1</item>
-        <item>nano_icon_pack_2</item>
-        <item>nano_icon_pack_3</item>
-        <item>nano_icon_pack_4</item>
-        <item>nano_icon_pack_5</item>
-        <item>nano_icon_pack_6</item>
     </string-array>
 
 </resources>

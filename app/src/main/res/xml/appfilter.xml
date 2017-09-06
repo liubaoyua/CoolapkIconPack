@@ -26,43 +26,6 @@
     <scale
         factor="0.6" />-->
 
-    <!-- Just for Nova -->
-    <!--<item
-        component=":LAUNCHER_ACTION_APP_DRAWER"
-        drawable="drawer" />-->
-    <!--<item
-        component=":LAUNCHER_ACTION_APP_DRAWER_NIGHT"
-        drawable="drawer_night" />-->
-    <!--<item
-        component=":BROWSER"
-        drawable="browser" />-->
-    <!--<item
-        component=":CALCULATOR"
-        drawable="calculator" />-->
-    <item
-        component=":CALENDAR"
-        drawable="calendar" />
-    <!--<item
-        component=":CAMERA"
-        drawable="camera" />-->
-    <!--<item
-        component=":CLOCK"
-        drawable="clock" />-->
-    <!--<item
-        component=":CONTACTS"
-        drawable="contacts" />-->
-    <!--<item
-        component=":EMAIL"
-        drawable="email" />-->
-    <!--<item
-        component=":GALLERY"
-        drawable="gallery" />-->
-    <!--<item
-        component=":PHONE"
-        drawable="phone" />-->
-    <!--<item
-        component=":SMS"
-        drawable="sms" />-->
 
     <!-- The whole 31 icons are required, or it doesn't work. -->
     <!--<calendar
@@ -90,6 +53,37 @@
         component="ComponentInfo{com.zui.calendar/com.zui.calendar.MainActivity}"
 
         prefix="calendar_d" />-->
+
+    <item
+        component=":BROWSER"
+        drawable="browser" />
+    <item
+        component=":CALCULATOR"
+        drawable="calculator" />
+    <item
+        component=":CALENDAR"
+        drawable="calendar" />
+    <item
+        component=":CAMERA"
+        drawable="camera" />
+    <item
+        component=":CLOCK"
+        drawable="clock" />
+    <item
+        component=":CONTACTS"
+        drawable="contacts" />
+    <item
+        component=":EMAIL"
+        drawable="email" />
+    <item
+        component=":GALLERY"
+        drawable="gallery" />
+    <item
+        component=":PHONE"
+        drawable="phone" />
+    <item
+        component=":SMS"
+        drawable="sms" />
 
     <item
         component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}"
@@ -528,5 +522,12 @@
         component="ComponentInfo{com.bilibili.app.blue/tv.danmaku.bili.ui.splash.SplashActivity}"
         drawable="bilibili_blue" />
 
+    <item
+        component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}"
+        drawable="weibo" />
+
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="settings" />
 
 </resources>

@@ -104,5 +104,16 @@
     <item drawable="zooper_pro" />
     <item drawable="ofo_bike" />
     <item drawable="bilibili" />
-
+    <item drawable="browser" />
+    <item drawable="calculator" />
+    <item drawable="calendar" />
+    <item drawable="camera" />
+    <item drawable="clock" />
+    <item drawable="contacts" />
+    <item drawable="email" />
+    <item drawable="gallery" />
+    <item drawable="phone" />
+    <item drawable="sms" />
+    <item drawable="weibo" />
+    <item drawable="settings" />
 </resources>

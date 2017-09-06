@@ -79,6 +79,18 @@
         <item>zooper_pro</item>
         <item>ofo_bike</item>
         <item>bilibili</item>
+        <item>browser</item>
+        <item>calculator</item>
+        <item>calendar</item>
+        <item>camera</item>
+        <item>clock</item>
+        <item>contacts</item>
+        <item>email</item>
+        <item>gallery</item>
+        <item>phone</item>
+        <item>sms</item>
+        <item>weibo</item>
+        <item>settings</item>
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->

@@ -530,4 +530,271 @@
         component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
         drawable="settings" />
 
+    <item
+        component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.android.music/com.android.music.activitymanagement.TopLevelActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.android.music/com.android.music.ui.MusicBrowserActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.android.music/com.android.music.MusicScanResultActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.meizu.media.music/com.meizu.media.music.MusicActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.samsung.android.app.music.chn/com.samsung.android.app.music.common.activity.MusicMainActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.samsung.android.app.music.chn/com.sec.android.app.music.common.activity.MusicMainActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.sec.android.app.music/com.samsung.musicplus.MusicMainActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{net.oneplus.music/net.oneplus.music.activity.MainActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.smartisanos.music/com.smartisanos.music.activities.MusicMain}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}"
+        drawable="music" />
+
+    <item
+        component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadsListTab}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadTabActivity}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadActivity}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.GnDownloadTabActivity}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.providers.downloads/com.color.downloads.ui.DownloadMainActivity}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.providers.downloads/com.android.providers.downloads.ui.DownloadList}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.providers.downloads/com.android.providers.downloads.ui.DownloadListUI}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}"
+        drawable="downloads" />
+    <item
+        component="ComponentInfo{com.android.documentsui/com.android.documentsui.Launcher}"
+        drawable="downloads" />
+
+
+    <item
+        component="ComponentInfo{com.htc.videohub.ui/com.htc.videohub.ui.MainActivity}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.htc.album/com.htc.album.AllVideos}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.sec.android.videoplayer/com.sec.android.videoplayer.VideoBrowser}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.android.music/com.android.music.VideoBrowserActivity}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.sec.android.app.videoplayer/com.sec.android.app.videoplayer.activity.VideoList}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.sec.android.app.videoplayer/com.sec.android.app.videoplayer.activity.MainTab}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.lge.videoplayer/com.lge.videoplayer.VideoFileList_New}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.motorola.gallery/com.motorola.gallery.LaunchAllVideosActivity}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.lifevibes.lgevideoplayer/com.lifevibes.lgevideoplayer.LGEVideoList}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.wise.movie_player/com.wise.movie_player.movie_list}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.sonyericsson.video/com.sonyericsson.video.browser.BrowserActivity}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.yulong.android.videoplayer/com.android.gallery3d.app.galleryforvideo}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.meizu.media.video/com.meizu.media.video.VideoMainActivity}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{cn.nubia.video/cn.nubia.video.list.app.VideoListActivity}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.oppo.video/com.oppo.video.VideoListActivity}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.samsung.android.video/com.samsung.android.video.list.activity.VideoList}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.samsung.video/com.samsung.video.VideoMain}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.samsung.everglades.video/com.samsung.everglades.video.VideoMain}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.syu.video/com.syu.video.main.VideoListActivity}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.huawei.hwvplayer.youku/com.huawei.hwvplayer.framework.MainActivity}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.android.VideoPlayer/com.android.VideoPlayer.VideoPlayer}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.miui.video/com.miui.video.HomeActivity}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.samsung.android.onlinevideo/com.samsung.android.onlinevideo.list.activity.VideoList}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.sony.tvsideview.videoph/com.sony.tvsideview.MainActivity}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.sonyericsson.video/com.sonyericsson.video.placeholderwrapper.MainActivity}"
+        drawable="video" />
+
+    <item
+        component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}"
+        drawable="play_games" />
+
+    <item
+        component="ComponentInfo{com.htc.filemanager/com.htc.filemanager.FileManagerActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.motorola.filemanager/com.motorola.filemanager.MainFileManagerActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{cn.nubia.myfile/cn.nubia.myfile.CategoryActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.android.documentsui/com.android.documentsui.DocumentsActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.android.filemanager/com.android.filemanager.FileManagerActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.coloros.filemanager/com.coloros.filemanager.Main}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.fihtdc.filemanager/com.fihtdc.filemanager.FileManager}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.intel.filemanager/com.intel.filemanager.FileMainActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.jide.filemanager/com.jide.filemanager.FileManagerActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.lenovo.FileBrowser/com.lenovo.FileBrowser.activities.FileBrowserMain}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.letv.android.filemanager/com.letv.android.filemanager.activities.FileManagerActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.lge.filemanager/com.lge.filemanager.view.LaunchActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.mediatek.filemanager/com.mediatek.filemanager.FileManagerOperationActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.mobisystems.fileman/com.mobisystems.files.FileBrowser}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.mobisystems.fileman.sonychina/com.mobisystems.files.FileBrowser}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.smartisanos.filemanager/com.smartisan.filemanager.MainActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.yulong.android.filebrowser/com.yulong.android.filebrowser.activity.LeadingActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{com.zui.filemanager/com.zui.filemanager.MainActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{org.mokee.filemanager/com.amaze.filemanager.activities.MainActivity}"
+        drawable="files" />
+    <item
+        component="ComponentInfo{zte.com.cn.filer/zte.com.cn.filer.FilerActivity}"
+        drawable="files" />
+
+    <item
+        component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.activity.login.WelcomeActivity}"
+        drawable="ximalaya_ting" />
+    <item
+        component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.activity.account.WelComeActivity}"
+        drawable="ximalaya_ting" />
+    <item
+        component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.main.activity.account.WelComeActivity}"
+        drawable="ximalaya_ting" />
+
+    <item
+        component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}"
+        drawable="aweme_music" />
+
+    <item
+        component="ComponentInfo{com.gentle.exview/com.gentle.exview.MainActivity}"
+        drawable="ex_view" />
+
+    <item
+        component="ComponentInfo{com.freereader.kankan/com.freereader.kankan.ui.SplashActivity}"
+        drawable="free_reader" />
 </resources>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   Copyright 2017 By_syk
 
   Licensed under the Apache License, Version 2.0 (the "License");
@@ -20,7 +19,6 @@
     <!-- File name (no suffix) list of all icons in /res/drawable-nodpi/ -->
     <!-- Names like "Calendar", "500px", "camera_360" are not allowed or recommended. -->
     <string-array name="icons" translatable="false">
-        <item>calendar</item>
         <item>quickpic</item>
         <item>chrome</item>
         <item>lucky_patcher</item>
@@ -91,16 +89,23 @@
         <item>sms</item>
         <item>weibo</item>
         <item>settings</item>
+        <item>music</item>
+        <item>downloads</item>
+        <item>video</item>
+        <item>play_games</item>
+        <item>files</item>
+        <item>ximalaya_ting</item>
+        <item>free_reader</item>
+        <item>ex_view</item>
+        <item>aweme_music</item>
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
-    <string-array name="icon_labels">
-    </string-array>
+    <string-array name="icon_labels"></string-array>
 
     <!-- Latest icons (Make sure it's from the "icons" array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
-    <string-array name="latest_icons" translatable="false">
-    </string-array>
+    <string-array name="latest_icons" translatable="false"></string-array>
 
 </resources>

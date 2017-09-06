@@ -116,4 +116,13 @@
     <item drawable="sms" />
     <item drawable="weibo" />
     <item drawable="settings" />
+    <item drawable="music" />
+    <item drawable="downloads" />
+    <item drawable="video" />
+    <item drawable="play_games" />
+    <item drawable="files" />
+    <item drawable="ximalaya_ting" />
+    <item drawable="free_reader" />
+    <item drawable="aweme_music" />
+    <item drawable="ex_view" />
 </resources>

@@ -35,6 +35,7 @@
     <item component="ComponentInfo{me.yourbay.airfrozen/me.yourbay.airfrozen.main.uimodule.Launcher}" drawable="air_frozen" />
     <item component="ComponentInfo{com.aiwu.market/com.aiwu.market.ui.activity.SplashActivity}" drawable="aiwu_market" />
     <item component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" drawable="alipay" />
+    <item component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}" drawable="amap" />
     <item component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" />
     <item component="ComponentInfo{de.amazon.mShop.android/com.amazon.mShop.android.home.HomeActivity}" drawable="amazon_shopping" />
     <item component="ComponentInfo{de.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" />

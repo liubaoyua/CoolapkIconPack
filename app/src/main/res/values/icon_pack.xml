@@ -21,6 +21,64 @@
     <!-- Names like "Calendar", "500px", "camera_360" are not allowed or recommended. -->
     <string-array name="icons" translatable="false">
         <item>calendar</item>
+        <item>quickpic</item>
+        <item>chrome</item>
+        <item>lucky_patcher</item>
+        <item>amap</item>
+        <item>baidu_maps</item>
+        <item>baidu_tieba</item>
+        <item>coolapk</item>
+        <item>duokan_reader</item>
+        <item>duowan_kiwi</item>
+        <item>adm</item>
+        <item>alipay</item>
+        <item>evernote</item>
+        <item>fenbi_gaozhong</item>
+        <item>photos</item>
+        <item>google_translate</item>
+        <item>keep</item>
+        <item>jd</item>
+        <item>microsoft_excel</item>
+        <item>one_note</item>
+        <item>outlook</item>
+        <item>microsoft_ppt</item>
+        <item>microsoft_word</item>
+        <item>mobike</item>
+        <item>mobile_ticket</item>
+        <item>mx_player</item>
+        <item>netease_music</item>
+        <item>onmyoji</item>
+        <item>snapseed</item>
+        <item>picacomic</item>
+        <item>quark_browser</item>
+        <item>qzone</item>
+        <item>it_home</item>
+        <item>jike</item>
+        <item>meituan</item>
+        <item>sohu_tv</item>
+        <item>app_env</item>
+        <item>toutiao</item>
+        <item>taobao_flea</item>
+        <item>taobao</item>
+        <item>tap_tap</item>
+        <item>wechat</item>
+        <item>qq</item>
+        <item>qq_lite</item>
+        <item>qq_music</item>
+        <item>tim</item>
+        <item>tmgp_sgame</item>
+        <item>twitter</item>
+        <item>zhuishu</item>
+        <item>zhihu</item>
+        <item>super_su</item>
+        <item>xiami_music</item>
+        <item>ele_me</item>
+        <item>brevent</item>
+        <item>nutstore</item>
+        <item>firefox</item>
+        <item>zooper_pro</item>
+        <item>ofo_bike</item>
+        <item>bilibili</item>
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->

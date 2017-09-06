@@ -18,7 +18,7 @@
 <resources>
 
     <!-- App name -->
-    <string name="app_name">NanoIconPack <small>Sample</small></string>
+    <string name="app_name">酷安灵魂手绘图标包</string>
 
     <!-- About information -->
     <!-- Keep its summary EMPTY (NOT DELETE IT) if you don't want to show certain line. -->
@@ -39,7 +39,7 @@
     <string name="preference_icons_title_todo_1"></string>
     <string name="preference_icons_summary_todo_1"></string>
     <string name="preference_icons_title_copyright">版权所有</string>
-    <string name="preference_icons_summary_copyright">Copyright &#169; 2017 By_syk. All rights reserved.</string>
+    <string name="preference_icons_summary_copyright">Copyright &#169; 2017 Coolapk. All rights reserved.</string>
     <string name="preference_support_title_donate">通过支付宝捐赠</string>
     <string name="preference_support_summary_donate">[By_syk@163.com](alipay:https://qr.alipay.com/aex05154fiiurupx5ai0dd1|By_syk@163.com)</string>
     <string name="preference_support_title_todo_1">通过微信捐赠</string>

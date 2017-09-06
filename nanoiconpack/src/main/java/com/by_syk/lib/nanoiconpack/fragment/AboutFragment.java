@@ -81,7 +81,7 @@ public class AboutFragment extends PreferenceFragmentCompat implements Preferenc
 
         init();
 
-        loadSponsors();
+//        loadSponsors();
     }
 
     private void init() {
@@ -102,6 +102,16 @@ public class AboutFragment extends PreferenceFragmentCompat implements Preferenc
         PreferenceCategory prefCatDev = (PreferenceCategory) findPreference(PREFERENCE_DEV);
         Preference prefDevStats = findPreference(PREFERENCE_DEV_STATS);
         Preference prefDevQuery = findPreference(PREFERENCE_DEV_QUERY);
+
+        prefIconsAuthor.setVisible(false);
+        prefIconsContact.setVisible(false);
+        prefCatSupport.setVisible(false);
+        prefSupportDonate.setVisible(false);
+        prefSupportTodo1.setVisible(false);
+        prefSupportSponsors.setVisible(false);
+        prefCatDev.setVisible(false);
+        prefDevStats.setVisible(false);
+        prefDevQuery.setVisible(false);
 
 //        prefIconsNote.setOnPreferenceClickListener(this);
         prefIconsAuthor.setOnPreferenceClickListener(this);
@@ -217,9 +227,7 @@ public class AboutFragment extends PreferenceFragmentCompat implements Preferenc
         if (!matcher.find()) {
             return;
         }
-        String key = matcher.group(1);
-
-        NanoServerService service = RetrofitHelper.getInstance().getService(NanoServerService.class);
+        String key = matcher.group(1);NanoServerService service = RetrofitHelper.getInstance().getService(NanoServerService.class);
         Call<ResResBean<List<DonateBean>>> call = service.getDonates(getContext().getPackageName(), key);
         call.enqueue(new Callback<ResResBean<List<DonateBean>>>() {
             @Override
@@ -241,6 +249,8 @@ public class AboutFragment extends PreferenceFragmentCompat implements Preferenc
             @Override
             public void onFailure(Call<ResResBean<List<DonateBean>>> call, Throwable t) {}
         });
+
+
     }
 
     @Override

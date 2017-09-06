@@ -75,13 +75,13 @@
     <string name="preference_category_icons">图标 (%d枚)</string>
     <string name="preference_icons_summary_note"></string>
     <string name="preference_icons_title_author">灵魂图匠</string>
-    <string name="preference_icons_summary_author">[@By_syk](copy:@By_syk)</string>
+    <string name="preference_icons_summary_author">[@Coolapk](copy:http://www.coolapk.com)</string>
     <string name="preference_icons_title_contact">联系作者</string>
     <string name="preference_icons_summary_contact">[By_syk@163.com](email:By_syk@163.com)</string>
     <string name="preference_icons_title_todo_1"></string>
     <string name="preference_icons_summary_todo_1"></string>
     <string name="preference_icons_title_copyright">版权所有</string>
-    <string name="preference_icons_summary_copyright">Copyright &#169; 2017 By_syk. All rights reserved.</string>
+    <string name="preference_icons_summary_copyright">Copyright &#169; 2017 Coolapk. All rights reserved.</string>
     <string name="preference_category_support">赞助支持</string>
     <string name="preference_support_title_donate">通过支付宝捐赠</string>
     <string name="preference_support_summary_donate">[By_syk@163.com](alipay:https://qr.alipay.com/aex05154fiiurupx5ai0dd1|By_syk@163.com)</string>

@@ -20,7 +20,7 @@
 
     <!-- Basic theme information -->
     <string name="theme_title">@string/app_name</string>
-    <string name="developer_name">By_syk</string>
+    <string name="developer_name">Coolapk</string>
     <!-- This (optional) link will appear at the end of the theme description -->
     <!--<string name="developer_link">http://by-syk.com</string>-->
     <!--<string name="theme_description">This is a sample theme.\n\nTheme developers may put anything here.\n\nEmail: By_syk@163.com</string>-->

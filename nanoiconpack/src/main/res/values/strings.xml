@@ -17,7 +17,7 @@
 
 <resources>
 
-    <string name="app_name">NanoIconPack</string>
+    <string name="app_name">Coolapk IconPack</string>
 
     <string name="activity_about">About</string>
     <string name="activity_req_stats">Request stats</string>
@@ -83,7 +83,7 @@
     <string name="preference_icons_title_todo_1"></string>
     <string name="preference_icons_summary_todo_1"></string>
     <string name="preference_icons_title_copyright">Copyright</string>
-    <string name="preference_icons_summary_copyright">Copyright &#169; 2017 By_syk. All rights reserved.</string>
+    <string name="preference_icons_summary_copyright">Copyright &#169; 2017 Coolapk. All rights reserved.</string>
     <string name="preference_category_support">Donate &amp; support</string>
     <string name="preference_support_title_donate">Donate via Alipay</string>
     <string name="preference_support_summary_donate">[By_syk@163.com](alipay:https://qr.alipay.com/aex05154fiiurupx5ai0dd1|By_syk@163.com)</string>

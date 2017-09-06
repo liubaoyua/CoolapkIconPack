@@ -101,7 +101,7 @@ public class MainActivity extends AppCompatActivity
                 int id = item.getItemId();
                 if (id == R.id.nav_lost) {
                     viewPager.setCurrentItem(0);
-                    prepareReqPrompt();
+//                    prepareReqPrompt();
                 } else if (id == R.id.nav_matched) {
                     viewPager.setCurrentItem(1);
                 } else if (id == R.id.nav_all) {
@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity
                 }
                 if (id == R.id.nav_lost) {
                     if (System.currentTimeMillis() - lastTapTime < 400) {
-                        enterConsole();
+//                        enterConsole();
                         lastTapTime = 0;
                     } else {
                         lastTapTime = System.currentTimeMillis();
@@ -184,6 +184,8 @@ public class MainActivity extends AppCompatActivity
                 }
             }
         }
+
+        menu.findItem(R.id.menu_whats_new).setVisible(false);
 
         return true;
     }

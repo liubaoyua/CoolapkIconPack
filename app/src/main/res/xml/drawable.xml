@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   Copyright 2017 By_syk
 
   Licensed under the Apache License, Version 2.0 (the "License");
@@ -125,4 +124,33 @@
     <item drawable="free_reader" />
     <item drawable="aweme_music" />
     <item drawable="ex_view" />
+    <item drawable="music2" />
+    <item drawable="browser2" />
+    <item drawable="email2" />
+    <item drawable="bilibili2" />
+    <item drawable="tmgp_sgame2" />
+    <item drawable="tmgp_sgame3" />
+    <item drawable="wechat2" />
+    <item drawable="coolapk2" />
+    <item drawable="evernote2" />
+    <item drawable="evernote3" />
+    <item drawable="qq2" />
+    <item drawable="custom_text" />
+
+    <item drawable="ibuka" />
+    <item drawable="wps" />
+    <item drawable="baidu_homework" />
+    <item drawable="hearth_stone" />
+    <item drawable="ice_box" />
+    <item drawable="es_file_explorer" />
+    <item drawable="goto_keep" />
+    <item drawable="cam_scanner" />
+    <item drawable="netease_uu" />
+    <item drawable="rar" />
+    <item drawable="meituan" />
+    <item drawable="weibo_i" />
+    <item drawable="acfun" />
+    <item drawable="custom_text" />
+
+
 </resources>

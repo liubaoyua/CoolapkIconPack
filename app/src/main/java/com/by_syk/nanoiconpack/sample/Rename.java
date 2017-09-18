@@ -49,13 +49,13 @@ public class Rename {
             }
         }
 
-        PrintStream stream = new PrintStream(new FileOutputStream("/Users/liubaoyua/test/test2/xml222"));
+        PrintStream stream = new PrintStream(new FileOutputStream("/Users/liubaoyua/test/xml222.xml"));
         for (String re : result) {
             stream.println(re);
         }
         stream.flush();
 
-        stream = new PrintStream(new FileOutputStream("/Users/liubaoyua/test/test2/xml333"));
+        stream = new PrintStream(new FileOutputStream("/Users/liubaoyua/test/xml333.xml"));
         for (String re : names) {
             stream.print("<item drawable=\"");
             stream.print(re);

@@ -996,4 +996,48 @@
     <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="sms" />
     <item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="sms" />
     <item component="ComponentInfo{com.zui.mms/com.fancymaker.mms.ui.XuiMmsMainActivity}" drawable="sms" />
+
+    <item component="ComponentInfo{cn.ibuka.manga.ui/cn.ibuka.manga.ui.ActivityStartup}" drawable="ibuka" />
+    <item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice_eng.documentmanager.PreStartActivity}" drawable="wps" />
+    <item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.Smart}" drawable="wps" />
+    <item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice_eng.documentmanager.DocumentManager}" drawable="wps" />
+    <item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}" drawable="wps" />
+    <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="quickpic" />
+    <item component="ComponentInfo{com.baidu.homework/com.baidu.homework.activity.init.InitActivity}" drawable="baidu_homework" />
+    <item component="ComponentInfo{com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneNativeActivity}" drawable="hearth_stone" />
+    <item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.MainActivity}" drawable="ice_box" />
+    <item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainActivity}" drawable="ice_box" />
+    <item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainActivityWithAnotherIcon}" drawable="ice_box" />
+    <item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainActivityWithRoundIcon}" drawable="ice_box" />
+    <item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainActivityFakeDrawer}" drawable="ice_box" />
+    <item component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" drawable="alipay" />
+    <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="es_file_explorer" />
+    <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.SplashActivity}" drawable="es_file_explorer" />
+    <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity}" drawable="es_file_explorer" />
+    <item component="ComponentInfo{com.estrongs.android.pop.pro/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="es_file_explorer_pro" />
+    <item component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.activity.SplashActivity}" drawable="goto_keep" />
+    <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}" drawable="cam_scanner" />
+    <item component="ComponentInfo{com.netease.uu/com.netease.uu.activity.SplashScreenActivity}" drawable="netease_uu" />
+    <item component="ComponentInfo{com.quark.browser/com.ucpro.MainActivity}" drawable="quark_browser" />
+    <item component="ComponentInfo{com.rarlab.rar/com.rarlab.rar.MainActivity}" drawable="rar" />
+    <item component="ComponentInfo{com.sankuai.meituan/com.sankuai.meituan.activity.Welcome}" drawable="meituan" />
+    <item component="ComponentInfo{com.sankuai.meituan/com.sankuai.meituan.activity.MainActivity}" drawable="meituan" />
+    <item component="ComponentInfo{com.sankuai.meituan/com.sankuai.meituan.activity.PreloadedWelcome}" drawable="meituan" />
+    <item component="ComponentInfo{com.sankuai.meituan.takeoutnew/com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity}" drawable="meituan_waimai" />
+    <item component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}" drawable="weibo" />
+    <item component="ComponentInfo{com.sina.weibolite/com.sina.weibo.SplashActivity}" drawable="weibo" />
+    <item component="ComponentInfo{com.sina.weibo/com.weico.international.activity.LogoActivity}" drawable="weibo_i" />
+    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat" />
+    <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq" />
+    <item component="ComponentInfo{com.tencent.mobileqq/com.qihoo.util.StartActivity}" drawable="qq" />
+    <item component="ComponentInfo{com.tencent.minihd.qq/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq_hd" />
+    <item component="ComponentInfo{com.tencent.mobileqqi/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq_i" />
+    <item component="ComponentInfo{com.tencent.qq.kddi/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq_jp" />
+    <item component="ComponentInfo{com.tencent.qqlite/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq_lite" />
+    <item component="ComponentInfo{com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity}" drawable="tim" />
+    <item component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}" drawable="weibo_i" />
+    <item component="ComponentInfo{com.weico.international/com.qihoo.util.StartActivity}" drawable="weibo_i" />
+    <item component="ComponentInfo{com.sina.weibo/com.weico.international.activity.LogoActivity}" drawable="weibo_i" />
+    <item component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.view.activity.SplashActivity}" drawable="acfun" />
+    <item component="ComponentInfo{liubaoyua.customtext/liubaoyua.customtext.ui.AppListActivity}" drawable="custom_text" />
 </resources>

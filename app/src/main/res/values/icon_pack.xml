@@ -98,6 +98,31 @@
         <item>free_reader</item>
         <item>ex_view</item>
         <item>aweme_music</item>
+        <item>music2</item>
+        <item>browser2</item>
+        <item>email2</item>
+        <item>bilibili2</item>
+        <item>tmgp_sgame2</item>
+        <item>tmgp_sgame3</item>
+        <item>wechat2</item>
+        <item>coolapk2</item>
+        <item>evernote2</item>
+        <item>evernote3</item>
+        <item>qq2</item>
+        <item>custom_text</item>
+        <item>ibuka</item>
+        <item>wps</item>
+        <item>baidu_homework</item>
+        <item>hearth_stone</item>
+        <item>ice_box</item>
+        <item>es_file_explorer</item>
+        <item>goto_keep</item>
+        <item>cam_scanner</item>
+        <item>netease_uu </item>
+        <item>rar</item>
+        <item>weibo_i</item>
+        <item>acfun</item>
+
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->

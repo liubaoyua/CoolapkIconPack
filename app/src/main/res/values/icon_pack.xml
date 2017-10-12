@@ -123,6 +123,28 @@
         <item>weibo_i</item>
         <item>acfun</item>
 
+        <item>coolapk3</item>
+        <item>bilibili3</item>
+        <item>wechat3</item>
+        <item>wechat4</item>
+        <item>quark_browser2</item>
+        <item>super_su2</item>
+        <item>wandoujia</item>
+        <item>arrow_launcher</item>
+        <item>netease_news</item>
+        <item>cortana</item>
+        <item>ctrip</item>
+        <item>facebook</item>
+        <item>xposed_installer</item>
+        <item>greenify</item>
+        <item>nova_launcher</item>
+        <item>shanzhai_baidu_neidisk</item>
+        <item>steam</item>
+        <item>kugou</item>
+        <item>microsoft_apps</item>
+        <item>netease_x19</item>
+
+
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->

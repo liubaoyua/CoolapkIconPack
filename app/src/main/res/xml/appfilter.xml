@@ -1040,4 +1040,37 @@
     <item component="ComponentInfo{com.sina.weibo/com.weico.international.activity.LogoActivity}" drawable="weibo_i" />
     <item component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.view.activity.SplashActivity}" drawable="acfun" />
     <item component="ComponentInfo{liubaoyua.customtext/liubaoyua.customtext.ui.AppListActivity}" drawable="custom_text" />
+
+    <item component="ComponentInfo{com.wandoujia.phoenix2/com.pp.assistant.activity.PPMainActivity}" drawable="wandoujia" />
+    <item component="ComponentInfo{com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity}" drawable="wandoujia" />
+    <item component="ComponentInfo{com.wandoujia.phoenix2/com.wandoujia.p4.activity.ExploreActivity}" drawable="wandoujia" />
+    <item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.EntryActivity}" drawable="arrow_launcher" />
+    <item component="ComponentInfo{com.netease.newsreader.activity/com.netease.nr.biz.ad.AdActivity}" drawable="netease_news" />
+    <item component="ComponentInfo{com.netease.newsreader.activity/com.netease.nr.phone.main.MainActivity}" drawable="netease_news" />
+    <item component="ComponentInfo{com.microsoft.cortana/com.microsoft.bing.dss.SplashActivity}" drawable="cortana" />
+    <item component="ComponentInfo{ctrip.android.view/ctrip.android.view.home.CtripSplashActivity}" drawable="ctrip" />
+    <item component="ComponentInfo{ctrip.android.view/ctrip.android.view.splash.CtripSplashActivity}" drawable="ctrip" />
+    <item component="ComponentInfo{ctrip.android.view/ctrip.base.ui.splash.CtripSplashActivity}" drawable="ctrip" />
+    <item component="ComponentInfo{ctrip.android.view/ctrip.android.view.home.CtripDeclarationActivity}" drawable="ctrip" />
+    <item component="ComponentInfo{ctrip.android.view/ctrip.android.view.view.CtripDeclarationActivity}" drawable="ctrip" />
+    <item component="ComponentInfo{ctrip.android.view/ctrip.business.splash.CtripSplashActivity}" drawable="ctrip" />
+    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
+    <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="xposed_installer" />
+    <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity-dvdandroid}" drawable="xposed_installer" />
+    <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity-hjmodi}" drawable="xposed_installer" />
+    <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity-rovo}" drawable="xposed_installer" />
+    <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity-staol}" drawable="xposed_installer" />
+    <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity-rovo-old}" drawable="xposed_installer" />
+    <item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}" drawable="greenify" />
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova_launcher" />
+    <item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="nova_launcher" />
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="nova_launcher" />
+    <item component="ComponentInfo{com.downloading.main.baiduyundownload/com.downloading.main.baiduyundownload.home.DrawerHomeActivity}" drawable="shanzhai_baidu_neidisk" />
+    <item component="ComponentInfo{com.downloading.main.baiduyundownload/com.downloading.main.baiduyundownload.home.HomeFileActivity}" drawable="shanzhai_baidu_neidisk" />
+    <item component="ComponentInfo{com.downloading.main.baiduyundownload/com.downloading.main.baiduyundownload.splash.SplashActivity}" drawable="shanzhai_baidu_neidisk" />
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam" />
+    <item component="ComponentInfo{com.kugou.android/com.kugou.android.app.splash.SplashActivity}" drawable="kugou" />
+    <item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpActivity}" drawable="microsoft_apps" />
+    <item component="ComponentInfo{com.netease.x19/com.mojang.minecraftpe.MainActivity}" drawable="netease_x19" />
+
 </resources>

@@ -152,5 +152,27 @@
     <item drawable="acfun" />
     <item drawable="custom_text" />
 
+    <item drawable="coolapk3" />
+    <item drawable="bilibili3" />
+    <item drawable="wechat3" />
+    <item drawable="wechat4" />
+    <item drawable="quark_browser2" />
+    <item drawable="super_su2" />
+    <item drawable="wandoujia" />
+    <item drawable="arrow_launcher" />
+    <item drawable="netease_news" />
+    <item drawable="cortana" />
+    <item drawable="ctrip" />
+    <item drawable="facebook" />
+    <item drawable="xposed_installer" />
+    <item drawable="greenify" />
+    <item drawable="nova_launcher" />
+    <item drawable="shanzhai_baidu_neidisk" />
+    <item drawable="steam" />
+    <item drawable="kugou" />
+    <item drawable="microsoft_apps" />
+    <item drawable="netease_x19" />
+
+
 
 </resources>

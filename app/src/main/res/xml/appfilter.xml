@@ -1073,4 +1073,6 @@
     <item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpActivity}" drawable="microsoft_apps" />
     <item component="ComponentInfo{com.netease.x19/com.mojang.minecraftpe.MainActivity}" drawable="netease_x19" />
 
+    <item component="ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain}" drawable="moon_reader" />
+
 </resources>

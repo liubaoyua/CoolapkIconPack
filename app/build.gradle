@@ -9,9 +9,9 @@ android {
         applicationId "com.coolapk.iconpack.hand_drawing"
         minSdkVersion Integer.parseInt(project.MIN_SDK_VERSION)
         targetSdkVersion Integer.parseInt(project.TARGET_SDK_VERSION)
-        versionCode 1710121
+        versionCode 1712291
         // Version name format: [version].[num_of_icons]
-        versionName "1.2"
+        versionName "1.3"
 
         resConfigs "en", "zh_cn"
     }

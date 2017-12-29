@@ -1075,4 +1075,10 @@
 
     <item component="ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain}" drawable="moon_reader" />
 
+    <item component="ComponentInfo{com.soft.blued/com.soft.blued.ui.welcome.FirstActivity}" drawable="blued" />
+    <item component="ComponentInfo{com.icbc/com.icbc.activity.init.LoadingActivity}" drawable="icbc_bank" />
+    <item component="ComponentInfo{com.sankuai.meituan.takeoutnew/com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity}" drawable="meituan_waimai" />
+    <item component="ComponentInfo{com.github.epd.sprout.test/com.github.epd.sprout.ShatteredPixelDungeon}" drawable="espd" />
+
+
 </resources>

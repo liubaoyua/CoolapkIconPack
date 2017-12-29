@@ -173,6 +173,20 @@
     <item drawable="microsoft_apps" />
     <item drawable="netease_x19" />
     <item drawable="moon_reader" />
+    <item drawable="chrome2" />
+    <item drawable="bilibili4" />
+    <item drawable="coolapk4" />
+    <item drawable="netease_music2" />
+    <item drawable="taobao2" />
+    <item drawable="wechat5" />
+    <item drawable="tim2" />
+    <item drawable="tmgp_sgame4" />
+    <item drawable="baidu_tieba2" />
+    <item drawable="blued" />
+    <item drawable="icbc_bank" />
+    <item drawable="meituan_waimai" />
+    <item drawable="espd" />
+
 
 
 </resources>
